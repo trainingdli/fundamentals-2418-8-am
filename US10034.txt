@@ -1,1 +1,23 @@
 Changes of US10034...
+
+
+Development - Dev1, dev2...
+
+QA - qa1
+
+UAT - UAT
+
+Pre Production - 
+
+Production - 
+
+JIO
+
+T Mobile
+
+FlipKart
+
+Agile
+
+    15 Days - 
+    
