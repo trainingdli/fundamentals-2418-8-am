@@ -2,3 +2,17 @@ Changes of US10035...
 
 git cherry-pick <commit-hash>: Apply the changes introduced by a specific commit to the current branch.
 Scenario: You want to copy a commit from one branch and apply it to another branch.
+
+
+Changes of US10035...
+
+git cherry-pick <commit-hash>: Apply the changes introduced by a specific commit to the current branch.
+Scenario: You want to copy a commit from one branch and apply it to another branch.
+
+
+
+
+
+
+git clean -n: List untracked files and directories in the working directory that are candidates for deletion.
+Scenario: You want to see which files and directories would be removed by running git clean -f, without actually deleting them.
