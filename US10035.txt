@@ -1,5 +1,1 @@
 Changes of US10035...
-
-
-
-You want to undo the changes introduced by a particular commit without removing it from the commit history.
