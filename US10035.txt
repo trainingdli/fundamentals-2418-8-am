@@ -1,1 +1,4 @@
 Changes of US10035...
+
+git cherry-pick <commit-hash>: Apply the changes introduced by a specific commit to the current branch.
+Scenario: You want to copy a commit from one branch and apply it to another branch.
